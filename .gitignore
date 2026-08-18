@@ -1,0 +1,7 @@
+**/__pycache__/
+venv/
+.env.dev
+.env.prd
+
+dev/serviceAccountKey.json
+prod/serviceAccountKey.json

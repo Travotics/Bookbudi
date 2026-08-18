@@ -1,0 +1,3332 @@
+[
+    {
+        "id": "AP",
+        "name": "Andhra Pradesh",
+        "districts": [
+            {
+                "id": "AP-ASR",
+                "name": "Alluri Sitharama Raju"
+            },
+            {
+                "id": "AP-ANA",
+                "name": "Anakapalli"
+            },
+            {
+                "id": "AP-ANA2",
+                "name": "Ananthapuramu"
+            },
+            {
+                "id": "AP-ANN",
+                "name": "Annamayya"
+            },
+            {
+                "id": "AP-BAP",
+                "name": "Bapatla"
+            },
+            {
+                "id": "AP-CHI",
+                "name": "Chittoor"
+            },
+            {
+                "id": "AP-DBR",
+                "name": "Dr. B. R. Ambedkar Konaseema"
+            },
+            {
+                "id": "AP-EG",
+                "name": "East Godavari"
+            },
+            {
+                "id": "AP-ELU",
+                "name": "Eluru"
+            },
+            {
+                "id": "AP-GUN",
+                "name": "Guntur"
+            },
+            {
+                "id": "AP-KAK",
+                "name": "Kakinada"
+            },
+            {
+                "id": "AP-KRI",
+                "name": "Krishna"
+            },
+            {
+                "id": "AP-KUR",
+                "name": "Kurnool"
+            },
+            {
+                "id": "AP-NAN",
+                "name": "Nandyal"
+            },
+            {
+                "id": "AP-NTR",
+                "name": "NTR"
+            },
+            {
+                "id": "AP-PAL",
+                "name": "Palnadu"
+            },
+            {
+                "id": "AP-PM",
+                "name": "Parvathipuram Manyam"
+            },
+            {
+                "id": "AP-PRA",
+                "name": "Prakasam"
+            },
+            {
+                "id": "AP-SPS",
+                "name": "Sri Potti Sriramulu Nellore"
+            },
+            {
+                "id": "AP-SSS",
+                "name": "Sri Sathya Sai"
+            },
+            {
+                "id": "AP-SRI",
+                "name": "Srikakulam"
+            },
+            {
+                "id": "AP-TIR",
+                "name": "Tirupati"
+            },
+            {
+                "id": "AP-VIS",
+                "name": "Visakhapatnam"
+            },
+            {
+                "id": "AP-VIZ",
+                "name": "Vizianagaram"
+            },
+            {
+                "id": "AP-WG",
+                "name": "West Godavari"
+            },
+            {
+                "id": "AP-YK",
+                "name": "YSR Kadapa"
+            }
+        ]
+    },
+    {
+        "id": "AR",
+        "name": "Arunachal Pradesh",
+        "districts": [
+            {
+                "id": "AR-ANJ",
+                "name": "Anjaw"
+            },
+            {
+                "id": "AR-BIC",
+                "name": "Bichom"
+            },
+            {
+                "id": "AR-CHA",
+                "name": "Changlang"
+            },
+            {
+                "id": "AR-DV",
+                "name": "Dibang Valley"
+            },
+            {
+                "id": "AR-EK",
+                "name": "East Kameng"
+            },
+            {
+                "id": "AR-ES",
+                "name": "East Siang"
+            },
+            {
+                "id": "AR-ICC",
+                "name": "Itanagar Capital Complex"
+            },
+            {
+                "id": "AR-KAM",
+                "name": "Kamle"
+            },
+            {
+                "id": "AR-KP",
+                "name": "Keyi Panyor"
+            },
+            {
+                "id": "AR-KD",
+                "name": "Kra Daadi"
+            },
+            {
+                "id": "AR-KK",
+                "name": "Kurung Kumey"
+            },
+            {
+                "id": "AR-LR",
+                "name": "Lepa Rada"
+            },
+            {
+                "id": "AR-LOH",
+                "name": "Lohit"
+            },
+            {
+                "id": "AR-LON",
+                "name": "Longding"
+            },
+            {
+                "id": "AR-LDV",
+                "name": "Lower Dibang Valley"
+            },
+            {
+                "id": "AR-LS",
+                "name": "Lower Siang"
+            },
+            {
+                "id": "AR-LS2",
+                "name": "Lower Subansiri"
+            },
+            {
+                "id": "AR-NAM",
+                "name": "Namsai"
+            },
+            {
+                "id": "AR-PK",
+                "name": "Pakke Kessang"
+            },
+            {
+                "id": "AR-PP",
+                "name": "Papum Pare"
+            },
+            {
+                "id": "AR-SY",
+                "name": "Shi Yomi"
+            },
+            {
+                "id": "AR-SIA",
+                "name": "Siang"
+            },
+            {
+                "id": "AR-TAW",
+                "name": "Tawang"
+            },
+            {
+                "id": "AR-TIR",
+                "name": "Tirap"
+            },
+            {
+                "id": "AR-US",
+                "name": "Upper Siang"
+            },
+            {
+                "id": "AR-US2",
+                "name": "Upper Subansiri"
+            },
+            {
+                "id": "AR-WK",
+                "name": "West Kameng"
+            },
+            {
+                "id": "AR-WS",
+                "name": "West Siang"
+            }
+        ]
+    },
+    {
+        "id": "AS",
+        "name": "Assam",
+        "districts": [
+            {
+                "id": "AS-BAK",
+                "name": "Baksa"
+            },
+            {
+                "id": "AS-BAJ",
+                "name": "Bajali"
+            },
+            {
+                "id": "AS-BAR",
+                "name": "Barpeta"
+            },
+            {
+                "id": "AS-BIS",
+                "name": "Biswanath"
+            },
+            {
+                "id": "AS-BON",
+                "name": "Bongaigaon"
+            },
+            {
+                "id": "AS-CAC",
+                "name": "Cachar"
+            },
+            {
+                "id": "AS-CHA",
+                "name": "Charaideo"
+            },
+            {
+                "id": "AS-DAR",
+                "name": "Darrang"
+            },
+            {
+                "id": "AS-DHE",
+                "name": "Dhemaji"
+            },
+            {
+                "id": "AS-DHU",
+                "name": "Dhubri"
+            },
+            {
+                "id": "AS-DIB",
+                "name": "Dibrugarh"
+            },
+            {
+                "id": "AS-DH",
+                "name": "Dima Hasao"
+            },
+            {
+                "id": "AS-GOA",
+                "name": "Goalpara"
+            },
+            {
+                "id": "AS-GOL",
+                "name": "Golaghat"
+            },
+            {
+                "id": "AS-HAI",
+                "name": "Hailakandi"
+            },
+            {
+                "id": "AS-HOJ",
+                "name": "Hojai"
+            },
+            {
+                "id": "AS-JOR",
+                "name": "Jorhat"
+            },
+            {
+                "id": "AS-KAM",
+                "name": "Kamrup"
+            },
+            {
+                "id": "AS-KM",
+                "name": "Kamrup Metropolitan"
+            },
+            {
+                "id": "AS-KA",
+                "name": "Karbi Anglong"
+            },
+            {
+                "id": "AS-KAR",
+                "name": "Karimganj"
+            },
+            {
+                "id": "AS-KOK",
+                "name": "Kokrajhar"
+            },
+            {
+                "id": "AS-LAK",
+                "name": "Lakhimpur"
+            },
+            {
+                "id": "AS-MAJ",
+                "name": "Majuli"
+            },
+            {
+                "id": "AS-MOR",
+                "name": "Morigaon"
+            },
+            {
+                "id": "AS-NAG",
+                "name": "Nagaon"
+            },
+            {
+                "id": "AS-NAL",
+                "name": "Nalbari"
+            },
+            {
+                "id": "AS-SIV",
+                "name": "Sivasagar"
+            },
+            {
+                "id": "AS-SON",
+                "name": "Sonitpur"
+            },
+            {
+                "id": "AS-SSM",
+                "name": "South Salmara-Mankachar"
+            },
+            {
+                "id": "AS-TAM",
+                "name": "Tamulpur"
+            },
+            {
+                "id": "AS-TIN",
+                "name": "Tinsukia"
+            },
+            {
+                "id": "AS-UDA",
+                "name": "Udalguri"
+            },
+            {
+                "id": "AS-WKA",
+                "name": "West Karbi Anglong"
+            }
+        ]
+    },
+    {
+        "id": "BR",
+        "name": "Bihar",
+        "districts": [
+            {
+                "id": "BR-ARA",
+                "name": "Araria"
+            },
+            {
+                "id": "BR-ARW",
+                "name": "Arwal"
+            },
+            {
+                "id": "BR-AUR",
+                "name": "Aurangabad"
+            },
+            {
+                "id": "BR-BAN",
+                "name": "Banka"
+            },
+            {
+                "id": "BR-BEG",
+                "name": "Begusarai"
+            },
+            {
+                "id": "BR-BHA",
+                "name": "Bhagalpur"
+            },
+            {
+                "id": "BR-BHO",
+                "name": "Bhojpur"
+            },
+            {
+                "id": "BR-BUX",
+                "name": "Buxar"
+            },
+            {
+                "id": "BR-DAR",
+                "name": "Darbhanga"
+            },
+            {
+                "id": "BR-EC",
+                "name": "East Champaran"
+            },
+            {
+                "id": "BR-GAY",
+                "name": "Gaya"
+            },
+            {
+                "id": "BR-GOP",
+                "name": "Gopalganj"
+            },
+            {
+                "id": "BR-JAM",
+                "name": "Jamui"
+            },
+            {
+                "id": "BR-JEH",
+                "name": "Jehanabad"
+            },
+            {
+                "id": "BR-KAI",
+                "name": "Kaimur"
+            },
+            {
+                "id": "BR-KAT",
+                "name": "Katihar"
+            },
+            {
+                "id": "BR-KHA",
+                "name": "Khagaria"
+            },
+            {
+                "id": "BR-KIS",
+                "name": "Kishanganj"
+            },
+            {
+                "id": "BR-LAK",
+                "name": "Lakhisarai"
+            },
+            {
+                "id": "BR-MAD",
+                "name": "Madhepura"
+            },
+            {
+                "id": "BR-MAD2",
+                "name": "Madhubani"
+            },
+            {
+                "id": "BR-MUN",
+                "name": "Munger"
+            },
+            {
+                "id": "BR-MUZ",
+                "name": "Muzaffarpur"
+            },
+            {
+                "id": "BR-NAL",
+                "name": "Nalanda"
+            },
+            {
+                "id": "BR-NAW",
+                "name": "Nawada"
+            },
+            {
+                "id": "BR-PAT",
+                "name": "Patna"
+            },
+            {
+                "id": "BR-PUR",
+                "name": "Purnia"
+            },
+            {
+                "id": "BR-ROH",
+                "name": "Rohtas"
+            },
+            {
+                "id": "BR-SAH",
+                "name": "Saharsa"
+            },
+            {
+                "id": "BR-SAM",
+                "name": "Samastipur"
+            },
+            {
+                "id": "BR-SAR",
+                "name": "Saran"
+            },
+            {
+                "id": "BR-SHE",
+                "name": "Sheikhpura"
+            },
+            {
+                "id": "BR-SHE2",
+                "name": "Sheohar"
+            },
+            {
+                "id": "BR-SIT",
+                "name": "Sitamarhi"
+            },
+            {
+                "id": "BR-SIW",
+                "name": "Siwan"
+            },
+            {
+                "id": "BR-SUP",
+                "name": "Supaul"
+            },
+            {
+                "id": "BR-VAI",
+                "name": "Vaishali"
+            },
+            {
+                "id": "BR-WC",
+                "name": "West Champaran"
+            }
+        ]
+    },
+    {
+        "id": "CG",
+        "name": "Chhattisgarh",
+        "districts": [
+            {
+                "id": "CG-BAL",
+                "name": "Balod"
+            },
+            {
+                "id": "CG-BBB",
+                "name": "Baloda Bazar-Bhatapara"
+            },
+            {
+                "id": "CG-BR",
+                "name": "Balrampur-Ramanujganj"
+            },
+            {
+                "id": "CG-BAS",
+                "name": "Bastar"
+            },
+            {
+                "id": "CG-BEM",
+                "name": "Bemetara"
+            },
+            {
+                "id": "CG-BIJ",
+                "name": "Bijapur"
+            },
+            {
+                "id": "CG-BIL",
+                "name": "Bilaspur"
+            },
+            {
+                "id": "CG-DAN",
+                "name": "Dantewada"
+            },
+            {
+                "id": "CG-DHA",
+                "name": "Dhamtari"
+            },
+            {
+                "id": "CG-DUR",
+                "name": "Durg"
+            },
+            {
+                "id": "CG-GAR",
+                "name": "Gariaband"
+            },
+            {
+                "id": "CG-GPM",
+                "name": "Gaurela-Pendra-Marwahi"
+            },
+            {
+                "id": "CG-JC",
+                "name": "Janjgir-Champa"
+            },
+            {
+                "id": "CG-JAS",
+                "name": "Jashpur"
+            },
+            {
+                "id": "CG-KAB",
+                "name": "Kabirdham"
+            },
+            {
+                "id": "CG-KAN",
+                "name": "Kanker"
+            },
+            {
+                "id": "CG-KCG",
+                "name": "Khairagarh-Chhuikhadan-Gandai"
+            },
+            {
+                "id": "CG-KON",
+                "name": "Kondagaon"
+            },
+            {
+                "id": "CG-KOR",
+                "name": "Korba"
+            },
+            {
+                "id": "CG-KOR2",
+                "name": "Korea"
+            },
+            {
+                "id": "CG-MAH",
+                "name": "Mahasamund"
+            },
+            {
+                "id": "CG-MCB",
+                "name": "Manendragarh-Chirmiri-Bharatpur"
+            },
+            {
+                "id": "CG-MMA",
+                "name": "Mohla-Manpur-Ambagarh Chowki"
+            },
+            {
+                "id": "CG-MUN",
+                "name": "Mungeli"
+            },
+            {
+                "id": "CG-NAR",
+                "name": "Narayanpur"
+            },
+            {
+                "id": "CG-RAI",
+                "name": "Raigarh"
+            },
+            {
+                "id": "CG-RAJ",
+                "name": "Rajnandgaon"
+            },
+            {
+                "id": "CG-SAK",
+                "name": "Sakti"
+            },
+            {
+                "id": "CG-SB",
+                "name": "Sarangarh-Bilaigarh"
+            },
+            {
+                "id": "CG-SUK",
+                "name": "Sukma"
+            },
+            {
+                "id": "CG-SUR",
+                "name": "Surajpur"
+            },
+            {
+                "id": "CG-SUR2",
+                "name": "Surguja"
+            }
+        ]
+    },
+    {
+        "id": "GA",
+        "name": "Goa",
+        "districts": [
+            {
+                "id": "GA-NG",
+                "name": "North Goa"
+            },
+            {
+                "id": "GA-SG",
+                "name": "South Goa"
+            }
+        ]
+    },
+    {
+        "id": "GJ",
+        "name": "Gujarat",
+        "districts": [
+            {
+                "id": "GJ-AHM",
+                "name": "Ahmedabad"
+            },
+            {
+                "id": "GJ-AMR",
+                "name": "Amreli"
+            },
+            {
+                "id": "GJ-ANA",
+                "name": "Anand"
+            },
+            {
+                "id": "GJ-ARA",
+                "name": "Aravalli"
+            },
+            {
+                "id": "GJ-BAN",
+                "name": "Banaskantha"
+            },
+            {
+                "id": "GJ-BHA",
+                "name": "Bharuch"
+            },
+            {
+                "id": "GJ-BHA2",
+                "name": "Bhavnagar"
+            },
+            {
+                "id": "GJ-BOT",
+                "name": "Botad"
+            },
+            {
+                "id": "GJ-CU",
+                "name": "Chhota Udaipur"
+            },
+            {
+                "id": "GJ-DAH",
+                "name": "Dahod"
+            },
+            {
+                "id": "GJ-DAN",
+                "name": "Dang"
+            },
+            {
+                "id": "GJ-DD",
+                "name": "Devbhumi Dwarka"
+            },
+            {
+                "id": "GJ-GAN",
+                "name": "Gandhinagar"
+            },
+            {
+                "id": "GJ-GS",
+                "name": "Gir Somnath"
+            },
+            {
+                "id": "GJ-JAM",
+                "name": "Jamnagar"
+            },
+            {
+                "id": "GJ-JUN",
+                "name": "Junagadh"
+            },
+            {
+                "id": "GJ-KAC",
+                "name": "Kachchh"
+            },
+            {
+                "id": "GJ-KHE",
+                "name": "Kheda"
+            },
+            {
+                "id": "GJ-MAH",
+                "name": "Mahisagar"
+            },
+            {
+                "id": "GJ-MEH",
+                "name": "Mehsana"
+            },
+            {
+                "id": "GJ-MOR",
+                "name": "Morbi"
+            },
+            {
+                "id": "GJ-NAR",
+                "name": "Narmada"
+            },
+            {
+                "id": "GJ-NAV",
+                "name": "Navsari"
+            },
+            {
+                "id": "GJ-PAN",
+                "name": "Panchmahal"
+            },
+            {
+                "id": "GJ-PAT",
+                "name": "Patan"
+            },
+            {
+                "id": "GJ-POR",
+                "name": "Porbandar"
+            },
+            {
+                "id": "GJ-RAJ",
+                "name": "Rajkot"
+            },
+            {
+                "id": "GJ-SAB",
+                "name": "Sabarkantha"
+            },
+            {
+                "id": "GJ-SUR",
+                "name": "Surat"
+            },
+            {
+                "id": "GJ-SUR2",
+                "name": "Surendranagar"
+            },
+            {
+                "id": "GJ-TAP",
+                "name": "Tapi"
+            },
+            {
+                "id": "GJ-VAD",
+                "name": "Vadodara"
+            },
+            {
+                "id": "GJ-VAL",
+                "name": "Valsad"
+            }
+        ]
+    },
+    {
+        "id": "HR",
+        "name": "Haryana",
+        "districts": [
+            {
+                "id": "HR-AMB",
+                "name": "Ambala"
+            },
+            {
+                "id": "HR-BHI",
+                "name": "Bhiwani"
+            },
+            {
+                "id": "HR-CD",
+                "name": "Charkhi Dadri"
+            },
+            {
+                "id": "HR-FAR",
+                "name": "Faridabad"
+            },
+            {
+                "id": "HR-FAT",
+                "name": "Fatehabad"
+            },
+            {
+                "id": "HR-GUR",
+                "name": "Gurugram"
+            },
+            {
+                "id": "HR-HIS",
+                "name": "Hisar"
+            },
+            {
+                "id": "HR-JHA",
+                "name": "Jhajjar"
+            },
+            {
+                "id": "HR-JIN",
+                "name": "Jind"
+            },
+            {
+                "id": "HR-KAI",
+                "name": "Kaithal"
+            },
+            {
+                "id": "HR-KAR",
+                "name": "Karnal"
+            },
+            {
+                "id": "HR-KUR",
+                "name": "Kurukshetra"
+            },
+            {
+                "id": "HR-MAH",
+                "name": "Mahendragarh"
+            },
+            {
+                "id": "HR-NUH",
+                "name": "Nuh"
+            },
+            {
+                "id": "HR-PAL",
+                "name": "Palwal"
+            },
+            {
+                "id": "HR-PAN",
+                "name": "Panchkula"
+            },
+            {
+                "id": "HR-PAN2",
+                "name": "Panipat"
+            },
+            {
+                "id": "HR-REW",
+                "name": "Rewari"
+            },
+            {
+                "id": "HR-ROH",
+                "name": "Rohtak"
+            },
+            {
+                "id": "HR-SIR",
+                "name": "Sirsa"
+            },
+            {
+                "id": "HR-SON",
+                "name": "Sonipat"
+            },
+            {
+                "id": "HR-YAM",
+                "name": "Yamunanagar"
+            }
+        ]
+    },
+    {
+        "id": "HP",
+        "name": "Himachal Pradesh",
+        "districts": [
+            {
+                "id": "HP-BIL",
+                "name": "Bilaspur"
+            },
+            {
+                "id": "HP-CHA",
+                "name": "Chamba"
+            },
+            {
+                "id": "HP-HAM",
+                "name": "Hamirpur"
+            },
+            {
+                "id": "HP-KAN",
+                "name": "Kangra"
+            },
+            {
+                "id": "HP-KIN",
+                "name": "Kinnaur"
+            },
+            {
+                "id": "HP-KUL",
+                "name": "Kullu"
+            },
+            {
+                "id": "HP-LAS",
+                "name": "Lahaul and Spiti"
+            },
+            {
+                "id": "HP-MAN",
+                "name": "Mandi"
+            },
+            {
+                "id": "HP-SHI",
+                "name": "Shimla"
+            },
+            {
+                "id": "HP-SIR",
+                "name": "Sirmaur"
+            },
+            {
+                "id": "HP-SOL",
+                "name": "Solan"
+            },
+            {
+                "id": "HP-UNA",
+                "name": "Una"
+            }
+        ]
+    },
+    {
+        "id": "JH",
+        "name": "Jharkhand",
+        "districts": [
+            {
+                "id": "JH-BOK",
+                "name": "Bokaro"
+            },
+            {
+                "id": "JH-CHA",
+                "name": "Chatra"
+            },
+            {
+                "id": "JH-DEO",
+                "name": "Deoghar"
+            },
+            {
+                "id": "JH-DHA",
+                "name": "Dhanbad"
+            },
+            {
+                "id": "JH-DUM",
+                "name": "Dumka"
+            },
+            {
+                "id": "JH-ES",
+                "name": "East Singhbhum"
+            },
+            {
+                "id": "JH-GAR",
+                "name": "Garhwa"
+            },
+            {
+                "id": "JH-GIR",
+                "name": "Giridih"
+            },
+            {
+                "id": "JH-GOD",
+                "name": "Godda"
+            },
+            {
+                "id": "JH-GUM",
+                "name": "Gumla"
+            },
+            {
+                "id": "JH-HAZ",
+                "name": "Hazaribagh"
+            },
+            {
+                "id": "JH-JAM",
+                "name": "Jamtara"
+            },
+            {
+                "id": "JH-KHU",
+                "name": "Khunti"
+            },
+            {
+                "id": "JH-KOD",
+                "name": "Koderma"
+            },
+            {
+                "id": "JH-LAT",
+                "name": "Latehar"
+            },
+            {
+                "id": "JH-LOH",
+                "name": "Lohardaga"
+            },
+            {
+                "id": "JH-PAK",
+                "name": "Pakur"
+            },
+            {
+                "id": "JH-PAL",
+                "name": "Palamu"
+            },
+            {
+                "id": "JH-RAM",
+                "name": "Ramgarh"
+            },
+            {
+                "id": "JH-RAN",
+                "name": "Ranchi"
+            },
+            {
+                "id": "JH-SAH",
+                "name": "Sahebganj"
+            },
+            {
+                "id": "JH-SK",
+                "name": "Seraikela Kharsawan"
+            },
+            {
+                "id": "JH-SIM",
+                "name": "Simdega"
+            },
+            {
+                "id": "JH-WS",
+                "name": "West Singhbhum"
+            }
+        ]
+    },
+    {
+        "id": "KA",
+        "name": "Karnataka",
+        "districts": [
+            {
+                "id": "KA-BAG",
+                "name": "Bagalkot"
+            },
+            {
+                "id": "KA-BAL",
+                "name": "Ballari"
+            },
+            {
+                "id": "KA-BEL",
+                "name": "Belagavi"
+            },
+            {
+                "id": "KA-BR",
+                "name": "Bengaluru Rural"
+            },
+            {
+                "id": "KA-BU",
+                "name": "Bengaluru Urban"
+            },
+            {
+                "id": "KA-BID",
+                "name": "Bidar"
+            },
+            {
+                "id": "KA-CHA",
+                "name": "Chamarajanagar"
+            },
+            {
+                "id": "KA-CHI",
+                "name": "Chikkaballapur"
+            },
+            {
+                "id": "KA-CHI2",
+                "name": "Chikkamagaluru"
+            },
+            {
+                "id": "KA-CHI3",
+                "name": "Chitradurga"
+            },
+            {
+                "id": "KA-DK",
+                "name": "Dakshina Kannada"
+            },
+            {
+                "id": "KA-DAV",
+                "name": "Davanagere"
+            },
+            {
+                "id": "KA-DHA",
+                "name": "Dharwad"
+            },
+            {
+                "id": "KA-GAD",
+                "name": "Gadag"
+            },
+            {
+                "id": "KA-HAS",
+                "name": "Hassan"
+            },
+            {
+                "id": "KA-HAV",
+                "name": "Haveri"
+            },
+            {
+                "id": "KA-KAL",
+                "name": "Kalaburagi"
+            },
+            {
+                "id": "KA-KOD",
+                "name": "Kodagu"
+            },
+            {
+                "id": "KA-KOL",
+                "name": "Kolar"
+            },
+            {
+                "id": "KA-KOP",
+                "name": "Koppal"
+            },
+            {
+                "id": "KA-MAN",
+                "name": "Mandya"
+            },
+            {
+                "id": "KA-MYS",
+                "name": "Mysuru"
+            },
+            {
+                "id": "KA-RAI",
+                "name": "Raichur"
+            },
+            {
+                "id": "KA-RAM",
+                "name": "Ramanagara"
+            },
+            {
+                "id": "KA-SHI",
+                "name": "Shivamogga"
+            },
+            {
+                "id": "KA-TUM",
+                "name": "Tumakuru"
+            },
+            {
+                "id": "KA-UDU",
+                "name": "Udupi"
+            },
+            {
+                "id": "KA-UK",
+                "name": "Uttara Kannada"
+            },
+            {
+                "id": "KA-VIJ",
+                "name": "Vijayanagara"
+            },
+            {
+                "id": "KA-VIJ2",
+                "name": "Vijayapura"
+            },
+            {
+                "id": "KA-YAD",
+                "name": "Yadgir"
+            }
+        ]
+    },
+    {
+        "id": "KL",
+        "name": "Kerala",
+        "districts": [
+            {
+                "id": "KL-ALA",
+                "name": "Alappuzha"
+            },
+            {
+                "id": "KL-ERN",
+                "name": "Ernakulam"
+            },
+            {
+                "id": "KL-IDU",
+                "name": "Idukki"
+            },
+            {
+                "id": "KL-KAN",
+                "name": "Kannur"
+            },
+            {
+                "id": "KL-KAS",
+                "name": "Kasaragod"
+            },
+            {
+                "id": "KL-KOL",
+                "name": "Kollam"
+            },
+            {
+                "id": "KL-KOT",
+                "name": "Kottayam"
+            },
+            {
+                "id": "KL-KOZ",
+                "name": "Kozhikode"
+            },
+            {
+                "id": "KL-MAL",
+                "name": "Malappuram"
+            },
+            {
+                "id": "KL-PAL",
+                "name": "Palakkad"
+            },
+            {
+                "id": "KL-PAT",
+                "name": "Pathanamthitta"
+            },
+            {
+                "id": "KL-THI",
+                "name": "Thiruvananthapuram"
+            },
+            {
+                "id": "KL-THR",
+                "name": "Thrissur"
+            },
+            {
+                "id": "KL-WAY",
+                "name": "Wayanad"
+            }
+        ]
+    },
+    {
+        "id": "MP",
+        "name": "Madhya Pradesh",
+        "districts": [
+            {
+                "id": "MP-AM",
+                "name": "Agar Malwa"
+            },
+            {
+                "id": "MP-ALI",
+                "name": "Alirajpur"
+            },
+            {
+                "id": "MP-ANU",
+                "name": "Anuppur"
+            },
+            {
+                "id": "MP-ASH",
+                "name": "Ashoknagar"
+            },
+            {
+                "id": "MP-BAL",
+                "name": "Balaghat"
+            },
+            {
+                "id": "MP-BAR",
+                "name": "Barwani"
+            },
+            {
+                "id": "MP-BET",
+                "name": "Betul"
+            },
+            {
+                "id": "MP-BHI",
+                "name": "Bhind"
+            },
+            {
+                "id": "MP-BHO",
+                "name": "Bhopal"
+            },
+            {
+                "id": "MP-BUR",
+                "name": "Burhanpur"
+            },
+            {
+                "id": "MP-CHH",
+                "name": "Chhatarpur"
+            },
+            {
+                "id": "MP-CHH2",
+                "name": "Chhindwara"
+            },
+            {
+                "id": "MP-DAM",
+                "name": "Damoh"
+            },
+            {
+                "id": "MP-DAT",
+                "name": "Datia"
+            },
+            {
+                "id": "MP-DEW",
+                "name": "Dewas"
+            },
+            {
+                "id": "MP-DHA",
+                "name": "Dhar"
+            },
+            {
+                "id": "MP-DIN",
+                "name": "Dindori"
+            },
+            {
+                "id": "MP-GUN",
+                "name": "Guna"
+            },
+            {
+                "id": "MP-GWA",
+                "name": "Gwalior"
+            },
+            {
+                "id": "MP-HAR",
+                "name": "Harda"
+            },
+            {
+                "id": "MP-IND",
+                "name": "Indore"
+            },
+            {
+                "id": "MP-JAB",
+                "name": "Jabalpur"
+            },
+            {
+                "id": "MP-JHA",
+                "name": "Jhabua"
+            },
+            {
+                "id": "MP-KAT",
+                "name": "Katni"
+            },
+            {
+                "id": "MP-KHA",
+                "name": "Khandwa"
+            },
+            {
+                "id": "MP-KHA2",
+                "name": "Khargone"
+            },
+            {
+                "id": "MP-MAI",
+                "name": "Maihar"
+            },
+            {
+                "id": "MP-MAN",
+                "name": "Mandla"
+            },
+            {
+                "id": "MP-MAN2",
+                "name": "Mandsaur"
+            },
+            {
+                "id": "MP-MAU",
+                "name": "Mauganj"
+            },
+            {
+                "id": "MP-MOR",
+                "name": "Morena"
+            },
+            {
+                "id": "MP-NAR",
+                "name": "Narmadapuram"
+            },
+            {
+                "id": "MP-NAR2",
+                "name": "Narsinghpur"
+            },
+            {
+                "id": "MP-NEE",
+                "name": "Neemuch"
+            },
+            {
+                "id": "MP-NIW",
+                "name": "Niwari"
+            },
+            {
+                "id": "MP-PAN",
+                "name": "Panna"
+            },
+            {
+                "id": "MP-PAN2",
+                "name": "Pandhurna"
+            },
+            {
+                "id": "MP-RAI",
+                "name": "Raisen"
+            },
+            {
+                "id": "MP-RAJ",
+                "name": "Rajgarh"
+            },
+            {
+                "id": "MP-RAT",
+                "name": "Ratlam"
+            },
+            {
+                "id": "MP-REW",
+                "name": "Rewa"
+            },
+            {
+                "id": "MP-SAG",
+                "name": "Sagar"
+            },
+            {
+                "id": "MP-SAT",
+                "name": "Satna"
+            },
+            {
+                "id": "MP-SEH",
+                "name": "Sehore"
+            },
+            {
+                "id": "MP-SEO",
+                "name": "Seoni"
+            },
+            {
+                "id": "MP-SHA",
+                "name": "Shahdol"
+            },
+            {
+                "id": "MP-SHA2",
+                "name": "Shajapur"
+            },
+            {
+                "id": "MP-SHE",
+                "name": "Sheopur"
+            },
+            {
+                "id": "MP-SHI",
+                "name": "Shivpuri"
+            },
+            {
+                "id": "MP-SID",
+                "name": "Sidhi"
+            },
+            {
+                "id": "MP-SIN",
+                "name": "Singrauli"
+            },
+            {
+                "id": "MP-TIK",
+                "name": "Tikamgarh"
+            },
+            {
+                "id": "MP-UJJ",
+                "name": "Ujjain"
+            },
+            {
+                "id": "MP-UMA",
+                "name": "Umaria"
+            },
+            {
+                "id": "MP-VID",
+                "name": "Vidisha"
+            }
+        ]
+    },
+    {
+        "id": "MH",
+        "name": "Maharashtra",
+        "districts": [
+            {
+                "id": "MH-AHM",
+                "name": "Ahmednagar"
+            },
+            {
+                "id": "MH-AKO",
+                "name": "Akola"
+            },
+            {
+                "id": "MH-AMR",
+                "name": "Amravati"
+            },
+            {
+                "id": "MH-AUR",
+                "name": "Aurangabad"
+            },
+            {
+                "id": "MH-BEE",
+                "name": "Beed"
+            },
+            {
+                "id": "MH-BHA",
+                "name": "Bhandara"
+            },
+            {
+                "id": "MH-BUL",
+                "name": "Buldhana"
+            },
+            {
+                "id": "MH-CHA",
+                "name": "Chandrapur"
+            },
+            {
+                "id": "MH-DHU",
+                "name": "Dhule"
+            },
+            {
+                "id": "MH-GAD",
+                "name": "Gadchiroli"
+            },
+            {
+                "id": "MH-GON",
+                "name": "Gondia"
+            },
+            {
+                "id": "MH-HIN",
+                "name": "Hingoli"
+            },
+            {
+                "id": "MH-JAL",
+                "name": "Jalgaon"
+            },
+            {
+                "id": "MH-JAL2",
+                "name": "Jalna"
+            },
+            {
+                "id": "MH-KOL",
+                "name": "Kolhapur"
+            },
+            {
+                "id": "MH-LAT",
+                "name": "Latur"
+            },
+            {
+                "id": "MH-MC",
+                "name": "Mumbai City"
+            },
+            {
+                "id": "MH-MS",
+                "name": "Mumbai Suburban"
+            },
+            {
+                "id": "MH-NAG",
+                "name": "Nagpur"
+            },
+            {
+                "id": "MH-NAN",
+                "name": "Nanded"
+            },
+            {
+                "id": "MH-NAN2",
+                "name": "Nandurbar"
+            },
+            {
+                "id": "MH-NAS",
+                "name": "Nashik"
+            },
+            {
+                "id": "MH-OSM",
+                "name": "Osmanabad"
+            },
+            {
+                "id": "MH-PAL",
+                "name": "Palghar"
+            },
+            {
+                "id": "MH-PAR",
+                "name": "Parbhani"
+            },
+            {
+                "id": "MH-PUN",
+                "name": "Pune"
+            },
+            {
+                "id": "MH-RAI",
+                "name": "Raigad"
+            },
+            {
+                "id": "MH-RAT",
+                "name": "Ratnagiri"
+            },
+            {
+                "id": "MH-SAN",
+                "name": "Sangli"
+            },
+            {
+                "id": "MH-SAT",
+                "name": "Satara"
+            },
+            {
+                "id": "MH-SIN",
+                "name": "Sindhudurg"
+            },
+            {
+                "id": "MH-SOL",
+                "name": "Solapur"
+            },
+            {
+                "id": "MH-THA",
+                "name": "Thane"
+            },
+            {
+                "id": "MH-WAR",
+                "name": "Wardha"
+            },
+            {
+                "id": "MH-WAS",
+                "name": "Washim"
+            },
+            {
+                "id": "MH-YAV",
+                "name": "Yavatmal"
+            }
+        ]
+    },
+    {
+        "id": "MN",
+        "name": "Manipur",
+        "districts": [
+            {
+                "id": "MN-BIS",
+                "name": "Bishnupur"
+            },
+            {
+                "id": "MN-CHA",
+                "name": "Chandel"
+            },
+            {
+                "id": "MN-CHU",
+                "name": "Churachandpur"
+            },
+            {
+                "id": "MN-IE",
+                "name": "Imphal East"
+            },
+            {
+                "id": "MN-IW",
+                "name": "Imphal West"
+            },
+            {
+                "id": "MN-JIR",
+                "name": "Jiribam"
+            },
+            {
+                "id": "MN-KAK",
+                "name": "Kakching"
+            },
+            {
+                "id": "MN-KAM",
+                "name": "Kamjong"
+            },
+            {
+                "id": "MN-KAN",
+                "name": "Kangpokpi"
+            },
+            {
+                "id": "MN-NON",
+                "name": "Noney"
+            },
+            {
+                "id": "MN-PHE",
+                "name": "Pherzawl"
+            },
+            {
+                "id": "MN-SEN",
+                "name": "Senapati"
+            },
+            {
+                "id": "MN-TAM",
+                "name": "Tamenglong"
+            },
+            {
+                "id": "MN-TEN",
+                "name": "Tengnoupal"
+            },
+            {
+                "id": "MN-THO",
+                "name": "Thoubal"
+            },
+            {
+                "id": "MN-UKH",
+                "name": "Ukhrul"
+            }
+        ]
+    },
+    {
+        "id": "ML",
+        "name": "Meghalaya",
+        "districts": [
+            {
+                "id": "ML-EGH",
+                "name": "East Garo Hills"
+            },
+            {
+                "id": "ML-EJH",
+                "name": "East Jaintia Hills"
+            },
+            {
+                "id": "ML-EKH",
+                "name": "East Khasi Hills"
+            },
+            {
+                "id": "ML-EWK",
+                "name": "Eastern West Khasi Hills"
+            },
+            {
+                "id": "ML-NGH",
+                "name": "North Garo Hills"
+            },
+            {
+                "id": "ML-RB",
+                "name": "Ri Bhoi"
+            },
+            {
+                "id": "ML-SGH",
+                "name": "South Garo Hills"
+            },
+            {
+                "id": "ML-SWG",
+                "name": "South West Garo Hills"
+            },
+            {
+                "id": "ML-SWK",
+                "name": "South West Khasi Hills"
+            },
+            {
+                "id": "ML-WGH",
+                "name": "West Garo Hills"
+            },
+            {
+                "id": "ML-WJH",
+                "name": "West Jaintia Hills"
+            },
+            {
+                "id": "ML-WKH",
+                "name": "West Khasi Hills"
+            }
+        ]
+    },
+    {
+        "id": "MZ",
+        "name": "Mizoram",
+        "districts": [
+            {
+                "id": "MZ-AIZ",
+                "name": "Aizawl"
+            },
+            {
+                "id": "MZ-CHA",
+                "name": "Champhai"
+            },
+            {
+                "id": "MZ-HNA",
+                "name": "Hnahthial"
+            },
+            {
+                "id": "MZ-KHA",
+                "name": "Khawzawl"
+            },
+            {
+                "id": "MZ-KOL",
+                "name": "Kolasib"
+            },
+            {
+                "id": "MZ-LAW",
+                "name": "Lawngtlai"
+            },
+            {
+                "id": "MZ-LUN",
+                "name": "Lunglei"
+            },
+            {
+                "id": "MZ-MAM",
+                "name": "Mamit"
+            },
+            {
+                "id": "MZ-SAI",
+                "name": "Saiha"
+            },
+            {
+                "id": "MZ-SAI2",
+                "name": "Saitual"
+            },
+            {
+                "id": "MZ-SER",
+                "name": "Serchhip"
+            }
+        ]
+    },
+    {
+        "id": "NL",
+        "name": "Nagaland",
+        "districts": [
+            {
+                "id": "NL-CHU",
+                "name": "Chumoukedima"
+            },
+            {
+                "id": "NL-DIM",
+                "name": "Dimapur"
+            },
+            {
+                "id": "NL-KIP",
+                "name": "Kiphire"
+            },
+            {
+                "id": "NL-KOH",
+                "name": "Kohima"
+            },
+            {
+                "id": "NL-LON",
+                "name": "Longleng"
+            },
+            {
+                "id": "NL-MEL",
+                "name": "Meluri"
+            },
+            {
+                "id": "NL-MOK",
+                "name": "Mokokchung"
+            },
+            {
+                "id": "NL-MON",
+                "name": "Mon"
+            },
+            {
+                "id": "NL-NIU",
+                "name": "Niuland"
+            },
+            {
+                "id": "NL-NOK",
+                "name": "Noklak"
+            },
+            {
+                "id": "NL-PER",
+                "name": "Peren"
+            },
+            {
+                "id": "NL-PHE",
+                "name": "Phek"
+            },
+            {
+                "id": "NL-SHA",
+                "name": "Shamator"
+            },
+            {
+                "id": "NL-TUE",
+                "name": "Tuensang"
+            },
+            {
+                "id": "NL-WOK",
+                "name": "Wokha"
+            },
+            {
+                "id": "NL-ZUN",
+                "name": "Zunheboto"
+            }
+        ]
+    },
+    {
+        "id": "OD",
+        "name": "Odisha",
+        "districts": [
+            {
+                "id": "OD-ANG",
+                "name": "Angul"
+            },
+            {
+                "id": "OD-BAL",
+                "name": "Balangir"
+            },
+            {
+                "id": "OD-BAL2",
+                "name": "Balasore"
+            },
+            {
+                "id": "OD-BAR",
+                "name": "Bargarh"
+            },
+            {
+                "id": "OD-BHA",
+                "name": "Bhadrak"
+            },
+            {
+                "id": "OD-BOU",
+                "name": "Boudh"
+            },
+            {
+                "id": "OD-CUT",
+                "name": "Cuttack"
+            },
+            {
+                "id": "OD-DEO",
+                "name": "Deogarh"
+            },
+            {
+                "id": "OD-DHE",
+                "name": "Dhenkanal"
+            },
+            {
+                "id": "OD-GAJ",
+                "name": "Gajapati"
+            },
+            {
+                "id": "OD-GAN",
+                "name": "Ganjam"
+            },
+            {
+                "id": "OD-JAG",
+                "name": "Jagatsinghpur"
+            },
+            {
+                "id": "OD-JAJ",
+                "name": "Jajpur"
+            },
+            {
+                "id": "OD-JHA",
+                "name": "Jharsuguda"
+            },
+            {
+                "id": "OD-KAL",
+                "name": "Kalahandi"
+            },
+            {
+                "id": "OD-KAN",
+                "name": "Kandhamal"
+            },
+            {
+                "id": "OD-KEN",
+                "name": "Kendrapara"
+            },
+            {
+                "id": "OD-KEO",
+                "name": "Keonjhar"
+            },
+            {
+                "id": "OD-KHO",
+                "name": "Khordha"
+            },
+            {
+                "id": "OD-KOR",
+                "name": "Koraput"
+            },
+            {
+                "id": "OD-MAL",
+                "name": "Malkangiri"
+            },
+            {
+                "id": "OD-MAY",
+                "name": "Mayurbhanj"
+            },
+            {
+                "id": "OD-NAB",
+                "name": "Nabarangpur"
+            },
+            {
+                "id": "OD-NAY",
+                "name": "Nayagarh"
+            },
+            {
+                "id": "OD-NUA",
+                "name": "Nuapada"
+            },
+            {
+                "id": "OD-PUR",
+                "name": "Puri"
+            },
+            {
+                "id": "OD-RAY",
+                "name": "Rayagada"
+            },
+            {
+                "id": "OD-SAM",
+                "name": "Sambalpur"
+            },
+            {
+                "id": "OD-SUB",
+                "name": "Subarnapur"
+            },
+            {
+                "id": "OD-SUN",
+                "name": "Sundargarh"
+            }
+        ]
+    },
+    {
+        "id": "PB",
+        "name": "Punjab",
+        "districts": [
+            {
+                "id": "PB-AMR",
+                "name": "Amritsar"
+            },
+            {
+                "id": "PB-BAR",
+                "name": "Barnala"
+            },
+            {
+                "id": "PB-BAT",
+                "name": "Bathinda"
+            },
+            {
+                "id": "PB-FAR",
+                "name": "Faridkot"
+            },
+            {
+                "id": "PB-FS",
+                "name": "Fatehgarh Sahib"
+            },
+            {
+                "id": "PB-FAZ",
+                "name": "Fazilka"
+            },
+            {
+                "id": "PB-FER",
+                "name": "Ferozepur"
+            },
+            {
+                "id": "PB-GUR",
+                "name": "Gurdaspur"
+            },
+            {
+                "id": "PB-HOS",
+                "name": "Hoshiarpur"
+            },
+            {
+                "id": "PB-JAL",
+                "name": "Jalandhar"
+            },
+            {
+                "id": "PB-KAP",
+                "name": "Kapurthala"
+            },
+            {
+                "id": "PB-LUD",
+                "name": "Ludhiana"
+            },
+            {
+                "id": "PB-MAL",
+                "name": "Malerkotla"
+            },
+            {
+                "id": "PB-MAN",
+                "name": "Mansa"
+            },
+            {
+                "id": "PB-MOG",
+                "name": "Moga"
+            },
+            {
+                "id": "PB-PAT",
+                "name": "Pathankot"
+            },
+            {
+                "id": "PB-PAT2",
+                "name": "Patiala"
+            },
+            {
+                "id": "PB-RUP",
+                "name": "Rupnagar"
+            },
+            {
+                "id": "PB-SAS",
+                "name": "Sahibzada Ajit Singh Nagar"
+            },
+            {
+                "id": "PB-SAN",
+                "name": "Sangrur"
+            },
+            {
+                "id": "PB-SBS",
+                "name": "Shaheed Bhagat Singh Nagar"
+            },
+            {
+                "id": "PB-SMS",
+                "name": "Sri Muktsar Sahib"
+            },
+            {
+                "id": "PB-TT",
+                "name": "Tarn Taran"
+            }
+        ]
+    },
+    {
+        "id": "RJ",
+        "name": "Rajasthan",
+        "districts": [
+            {
+                "id": "RJ-AJM",
+                "name": "Ajmer"
+            },
+            {
+                "id": "RJ-ALW",
+                "name": "Alwar"
+            },
+            {
+                "id": "RJ-BAL",
+                "name": "Balotra"
+            },
+            {
+                "id": "RJ-BAN",
+                "name": "Banswara"
+            },
+            {
+                "id": "RJ-BAR",
+                "name": "Baran"
+            },
+            {
+                "id": "RJ-BAR2",
+                "name": "Barmer"
+            },
+            {
+                "id": "RJ-BEA",
+                "name": "Beawar"
+            },
+            {
+                "id": "RJ-BHA",
+                "name": "Bharatpur"
+            },
+            {
+                "id": "RJ-BHI",
+                "name": "Bhilwara"
+            },
+            {
+                "id": "RJ-BIK",
+                "name": "Bikaner"
+            },
+            {
+                "id": "RJ-BUN",
+                "name": "Bundi"
+            },
+            {
+                "id": "RJ-CHI",
+                "name": "Chittorgarh"
+            },
+            {
+                "id": "RJ-CHU",
+                "name": "Churu"
+            },
+            {
+                "id": "RJ-DAU",
+                "name": "Dausa"
+            },
+            {
+                "id": "RJ-DEE",
+                "name": "Deeg"
+            },
+            {
+                "id": "RJ-DHO",
+                "name": "Dholpur"
+            },
+            {
+                "id": "RJ-DK",
+                "name": "Didwana-Kuchamana"
+            },
+            {
+                "id": "RJ-DUN",
+                "name": "Dungarpur"
+            },
+            {
+                "id": "RJ-HAN",
+                "name": "Hanumangarh"
+            },
+            {
+                "id": "RJ-JAI",
+                "name": "Jaipur"
+            },
+            {
+                "id": "RJ-JAI2",
+                "name": "Jaisalmer"
+            },
+            {
+                "id": "RJ-JAL",
+                "name": "Jalore"
+            },
+            {
+                "id": "RJ-JHA",
+                "name": "Jhalawar"
+            },
+            {
+                "id": "RJ-JHU",
+                "name": "Jhunjhunu"
+            },
+            {
+                "id": "RJ-JOD",
+                "name": "Jodhpur"
+            },
+            {
+                "id": "RJ-KAR",
+                "name": "Karauli"
+            },
+            {
+                "id": "RJ-KT",
+                "name": "Khairthal-Tijara"
+            },
+            {
+                "id": "RJ-KOT",
+                "name": "Kota"
+            },
+            {
+                "id": "RJ-KB",
+                "name": "Kotputli-Behror"
+            },
+            {
+                "id": "RJ-NAG",
+                "name": "Nagaur"
+            },
+            {
+                "id": "RJ-PAL",
+                "name": "Pali"
+            },
+            {
+                "id": "RJ-PHA",
+                "name": "Phalodi"
+            },
+            {
+                "id": "RJ-PRA",
+                "name": "Pratapgarh"
+            },
+            {
+                "id": "RJ-RAJ",
+                "name": "Rajsamand"
+            },
+            {
+                "id": "RJ-SAL",
+                "name": "Salumbar"
+            },
+            {
+                "id": "RJ-SM",
+                "name": "Sawai Madhopur"
+            },
+            {
+                "id": "RJ-SIK",
+                "name": "Sikar"
+            },
+            {
+                "id": "RJ-SIR",
+                "name": "Sirohi"
+            },
+            {
+                "id": "RJ-SG",
+                "name": "Sri Ganganagar"
+            },
+            {
+                "id": "RJ-TON",
+                "name": "Tonk"
+            },
+            {
+                "id": "RJ-UDA",
+                "name": "Udaipur"
+            }
+        ]
+    },
+    {
+        "id": "SK",
+        "name": "Sikkim",
+        "districts": [
+            {
+                "id": "SK-GAN",
+                "name": "Gangtok"
+            },
+            {
+                "id": "SK-GYA",
+                "name": "Gyalshing"
+            },
+            {
+                "id": "SK-MAN",
+                "name": "Mangan"
+            },
+            {
+                "id": "SK-NAM",
+                "name": "Namchi"
+            },
+            {
+                "id": "SK-PAK",
+                "name": "Pakyong"
+            },
+            {
+                "id": "SK-SOR",
+                "name": "Soreng"
+            }
+        ]
+    },
+    {
+        "id": "TN",
+        "name": "Tamil Nadu",
+        "districts": [
+            {
+                "id": "TN-ARI",
+                "name": "Ariyalur"
+            },
+            {
+                "id": "TN-CHE",
+                "name": "Chengalpattu"
+            },
+            {
+                "id": "TN-CHE2",
+                "name": "Chennai"
+            },
+            {
+                "id": "TN-COI",
+                "name": "Coimbatore"
+            },
+            {
+                "id": "TN-CUD",
+                "name": "Cuddalore"
+            },
+            {
+                "id": "TN-DHA",
+                "name": "Dharmapuri"
+            },
+            {
+                "id": "TN-DIN",
+                "name": "Dindigul"
+            },
+            {
+                "id": "TN-ERO",
+                "name": "Erode"
+            },
+            {
+                "id": "TN-KAL",
+                "name": "Kallakurichi"
+            },
+            {
+                "id": "TN-KAN",
+                "name": "Kancheepuram"
+            },
+            {
+                "id": "TN-KAR",
+                "name": "Karur"
+            },
+            {
+                "id": "TN-KRI",
+                "name": "Krishnagiri"
+            },
+            {
+                "id": "TN-MAD",
+                "name": "Madurai"
+            },
+            {
+                "id": "TN-MAY",
+                "name": "Mayiladuthurai"
+            },
+            {
+                "id": "TN-NAG",
+                "name": "Nagapattinam"
+            },
+            {
+                "id": "TN-NAM",
+                "name": "Namakkal"
+            },
+            {
+                "id": "TN-NIL",
+                "name": "Nilgiris"
+            },
+            {
+                "id": "TN-PER",
+                "name": "Perambalur"
+            },
+            {
+                "id": "TN-PUD",
+                "name": "Pudukkottai"
+            },
+            {
+                "id": "TN-RAM",
+                "name": "Ramanathapuram"
+            },
+            {
+                "id": "TN-RAN",
+                "name": "Ranipet"
+            },
+            {
+                "id": "TN-SAL",
+                "name": "Salem"
+            },
+            {
+                "id": "TN-SIV",
+                "name": "Sivaganga"
+            },
+            {
+                "id": "TN-TEN",
+                "name": "Tenkasi"
+            },
+            {
+                "id": "TN-THA",
+                "name": "Thanjavur"
+            },
+            {
+                "id": "TN-THE",
+                "name": "Theni"
+            },
+            {
+                "id": "TN-THO",
+                "name": "Thoothukudi"
+            },
+            {
+                "id": "TN-TIR",
+                "name": "Tiruchirappalli"
+            },
+            {
+                "id": "TN-TIR2",
+                "name": "Tirunelveli"
+            },
+            {
+                "id": "TN-TIR3",
+                "name": "Tirupathur"
+            },
+            {
+                "id": "TN-TIR4",
+                "name": "Tiruppur"
+            },
+            {
+                "id": "TN-TIR5",
+                "name": "Tiruvallur"
+            },
+            {
+                "id": "TN-TIR6",
+                "name": "Tiruvarur"
+            },
+            {
+                "id": "TN-VEL",
+                "name": "Vellore"
+            },
+            {
+                "id": "TN-VIL",
+                "name": "Viluppuram"
+            },
+            {
+                "id": "TN-VIR",
+                "name": "Virudhunagar"
+            }
+        ]
+    },
+    {
+        "id": "TS",
+        "name": "Telangana",
+        "districts": [
+            {
+                "id": "TS-ADI",
+                "name": "Adilabad"
+            },
+            {
+                "id": "TS-BK",
+                "name": "Bhadradri Kothagudem"
+            },
+            {
+                "id": "TS-HAN",
+                "name": "Hanamkonda"
+            },
+            {
+                "id": "TS-HYD",
+                "name": "Hyderabad"
+            },
+            {
+                "id": "TS-JAG",
+                "name": "Jagtial"
+            },
+            {
+                "id": "TS-JAN",
+                "name": "Jangaon"
+            },
+            {
+                "id": "TS-JB",
+                "name": "Jayashankar Bhupalpally"
+            },
+            {
+                "id": "TS-JG",
+                "name": "Jogulamba Gadwal"
+            },
+            {
+                "id": "TS-KAM",
+                "name": "Kamareddy"
+            },
+            {
+                "id": "TS-KAR",
+                "name": "Karimnagar"
+            },
+            {
+                "id": "TS-KHA",
+                "name": "Khammam"
+            },
+            {
+                "id": "TS-KBA",
+                "name": "Komaram Bheem Asifabad"
+            },
+            {
+                "id": "TS-MAH",
+                "name": "Mahabubabad"
+            },
+            {
+                "id": "TS-MAH2",
+                "name": "Mahbubnagar"
+            },
+            {
+                "id": "TS-MAN",
+                "name": "Mancherial"
+            },
+            {
+                "id": "TS-MED",
+                "name": "Medak"
+            },
+            {
+                "id": "TS-MM",
+                "name": "Medchal-Malkajgiri"
+            },
+            {
+                "id": "TS-MUL",
+                "name": "Mulugu"
+            },
+            {
+                "id": "TS-NAG",
+                "name": "Nagarkurnool"
+            },
+            {
+                "id": "TS-NAL",
+                "name": "Nalgonda"
+            },
+            {
+                "id": "TS-NAR",
+                "name": "Narayanpet"
+            },
+            {
+                "id": "TS-NIR",
+                "name": "Nirmal"
+            },
+            {
+                "id": "TS-NIZ",
+                "name": "Nizamabad"
+            },
+            {
+                "id": "TS-PED",
+                "name": "Peddapalli"
+            },
+            {
+                "id": "TS-RS",
+                "name": "Rajanna Sircilla"
+            },
+            {
+                "id": "TS-RAN",
+                "name": "Rangareddy"
+            },
+            {
+                "id": "TS-SAN",
+                "name": "Sangareddy"
+            },
+            {
+                "id": "TS-SID",
+                "name": "Siddipet"
+            },
+            {
+                "id": "TS-SUR",
+                "name": "Suryapet"
+            },
+            {
+                "id": "TS-VIK",
+                "name": "Vikarabad"
+            },
+            {
+                "id": "TS-WAN",
+                "name": "Wanaparthy"
+            },
+            {
+                "id": "TS-WAR",
+                "name": "Warangal"
+            },
+            {
+                "id": "TS-YB",
+                "name": "Yadadri Bhuvanagiri"
+            }
+        ]
+    },
+    {
+        "id": "TR",
+        "name": "Tripura",
+        "districts": [
+            {
+                "id": "TR-DHA",
+                "name": "Dhalai"
+            },
+            {
+                "id": "TR-GOM",
+                "name": "Gomati"
+            },
+            {
+                "id": "TR-KHO",
+                "name": "Khowai"
+            },
+            {
+                "id": "TR-NT",
+                "name": "North Tripura"
+            },
+            {
+                "id": "TR-SEP",
+                "name": "Sepahijala"
+            },
+            {
+                "id": "TR-ST",
+                "name": "South Tripura"
+            },
+            {
+                "id": "TR-UNA",
+                "name": "Unakoti"
+            },
+            {
+                "id": "TR-WT",
+                "name": "West Tripura"
+            }
+        ]
+    },
+    {
+        "id": "UP",
+        "name": "Uttar Pradesh",
+        "districts": [
+            {
+                "id": "UP-AGR",
+                "name": "Agra"
+            },
+            {
+                "id": "UP-ALI",
+                "name": "Aligarh"
+            },
+            {
+                "id": "UP-AN",
+                "name": "Ambedkar Nagar"
+            },
+            {
+                "id": "UP-AME",
+                "name": "Amethi"
+            },
+            {
+                "id": "UP-AMR",
+                "name": "Amroha"
+            },
+            {
+                "id": "UP-AUR",
+                "name": "Auraiya"
+            },
+            {
+                "id": "UP-AYO",
+                "name": "Ayodhya"
+            },
+            {
+                "id": "UP-AZA",
+                "name": "Azamgarh"
+            },
+            {
+                "id": "UP-BAG",
+                "name": "Baghpat"
+            },
+            {
+                "id": "UP-BAH",
+                "name": "Bahraich"
+            },
+            {
+                "id": "UP-BAL",
+                "name": "Ballia"
+            },
+            {
+                "id": "UP-BAL2",
+                "name": "Balrampur"
+            },
+            {
+                "id": "UP-BAN",
+                "name": "Banda"
+            },
+            {
+                "id": "UP-BAR",
+                "name": "Barabanki"
+            },
+            {
+                "id": "UP-BAR2",
+                "name": "Bareilly"
+            },
+            {
+                "id": "UP-BAS",
+                "name": "Basti"
+            },
+            {
+                "id": "UP-BHA",
+                "name": "Bhadohi"
+            },
+            {
+                "id": "UP-BIJ",
+                "name": "Bijnor"
+            },
+            {
+                "id": "UP-BUD",
+                "name": "Budaun"
+            },
+            {
+                "id": "UP-BUL",
+                "name": "Bulandshahr"
+            },
+            {
+                "id": "UP-CHA",
+                "name": "Chandauli"
+            },
+            {
+                "id": "UP-CHI",
+                "name": "Chitrakoot"
+            },
+            {
+                "id": "UP-DEO",
+                "name": "Deoria"
+            },
+            {
+                "id": "UP-ETA",
+                "name": "Etah"
+            },
+            {
+                "id": "UP-ETA2",
+                "name": "Etawah"
+            },
+            {
+                "id": "UP-FAR",
+                "name": "Farrukhabad"
+            },
+            {
+                "id": "UP-FAT",
+                "name": "Fatehpur"
+            },
+            {
+                "id": "UP-FIR",
+                "name": "Firozabad"
+            },
+            {
+                "id": "UP-GBN",
+                "name": "Gautam Buddha Nagar"
+            },
+            {
+                "id": "UP-GHA",
+                "name": "Ghaziabad"
+            },
+            {
+                "id": "UP-GHA2",
+                "name": "Ghazipur"
+            },
+            {
+                "id": "UP-GON",
+                "name": "Gonda"
+            },
+            {
+                "id": "UP-GOR",
+                "name": "Gorakhpur"
+            },
+            {
+                "id": "UP-HAM",
+                "name": "Hamirpur"
+            },
+            {
+                "id": "UP-HAP",
+                "name": "Hapur"
+            },
+            {
+                "id": "UP-HAR",
+                "name": "Hardoi"
+            },
+            {
+                "id": "UP-HAT",
+                "name": "Hathras"
+            },
+            {
+                "id": "UP-JAL",
+                "name": "Jalaun"
+            },
+            {
+                "id": "UP-JAU",
+                "name": "Jaunpur"
+            },
+            {
+                "id": "UP-JHA",
+                "name": "Jhansi"
+            },
+            {
+                "id": "UP-KAN",
+                "name": "Kannauj"
+            },
+            {
+                "id": "UP-KD",
+                "name": "Kanpur Dehat"
+            },
+            {
+                "id": "UP-KN",
+                "name": "Kanpur Nagar"
+            },
+            {
+                "id": "UP-KAS",
+                "name": "Kasganj"
+            },
+            {
+                "id": "UP-KAU",
+                "name": "Kaushambi"
+            },
+            {
+                "id": "UP-KHE",
+                "name": "Kheri"
+            },
+            {
+                "id": "UP-KUS",
+                "name": "Kushinagar"
+            },
+            {
+                "id": "UP-LAL",
+                "name": "Lalitpur"
+            },
+            {
+                "id": "UP-LUC",
+                "name": "Lucknow"
+            },
+            {
+                "id": "UP-MAH",
+                "name": "Maharajganj"
+            },
+            {
+                "id": "UP-MAH2",
+                "name": "Mahoba"
+            },
+            {
+                "id": "UP-MAI",
+                "name": "Mainpuri"
+            },
+            {
+                "id": "UP-MAT",
+                "name": "Mathura"
+            },
+            {
+                "id": "UP-MAU",
+                "name": "Mau"
+            },
+            {
+                "id": "UP-MEE",
+                "name": "Meerut"
+            },
+            {
+                "id": "UP-MIR",
+                "name": "Mirzapur"
+            },
+            {
+                "id": "UP-MOR",
+                "name": "Moradabad"
+            },
+            {
+                "id": "UP-MUZ",
+                "name": "Muzaffarnagar"
+            },
+            {
+                "id": "UP-PIL",
+                "name": "Pilibhit"
+            },
+            {
+                "id": "UP-PRA",
+                "name": "Pratapgarh"
+            },
+            {
+                "id": "UP-PRA2",
+                "name": "Prayagraj"
+            },
+            {
+                "id": "UP-RAE",
+                "name": "Raebareli"
+            },
+            {
+                "id": "UP-RAM",
+                "name": "Rampur"
+            },
+            {
+                "id": "UP-SAH",
+                "name": "Saharanpur"
+            },
+            {
+                "id": "UP-SAM",
+                "name": "Sambhal"
+            },
+            {
+                "id": "UP-SKN",
+                "name": "Sant Kabir Nagar"
+            },
+            {
+                "id": "UP-SHA",
+                "name": "Shahjahanpur"
+            },
+            {
+                "id": "UP-SHA2",
+                "name": "Shamli"
+            },
+            {
+                "id": "UP-SHR",
+                "name": "Shravasti"
+            },
+            {
+                "id": "UP-SID",
+                "name": "Siddharthnagar"
+            },
+            {
+                "id": "UP-SIT",
+                "name": "Sitapur"
+            },
+            {
+                "id": "UP-SON",
+                "name": "Sonbhadra"
+            },
+            {
+                "id": "UP-SUL",
+                "name": "Sultanpur"
+            },
+            {
+                "id": "UP-UNN",
+                "name": "Unnao"
+            },
+            {
+                "id": "UP-VAR",
+                "name": "Varanasi"
+            }
+        ]
+    },
+    {
+        "id": "UK",
+        "name": "Uttarakhand",
+        "districts": [
+            {
+                "id": "UK-ALM",
+                "name": "Almora"
+            },
+            {
+                "id": "UK-BAG",
+                "name": "Bageshwar"
+            },
+            {
+                "id": "UK-CHA",
+                "name": "Chamoli"
+            },
+            {
+                "id": "UK-CHA2",
+                "name": "Champawat"
+            },
+            {
+                "id": "UK-DEH",
+                "name": "Dehradun"
+            },
+            {
+                "id": "UK-HAR",
+                "name": "Haridwar"
+            },
+            {
+                "id": "UK-NAI",
+                "name": "Nainital"
+            },
+            {
+                "id": "UK-PG",
+                "name": "Pauri Garhwal"
+            },
+            {
+                "id": "UK-PIT",
+                "name": "Pithoragarh"
+            },
+            {
+                "id": "UK-RUD",
+                "name": "Rudraprayag"
+            },
+            {
+                "id": "UK-TG",
+                "name": "Tehri Garhwal"
+            },
+            {
+                "id": "UK-USN",
+                "name": "Udham Singh Nagar"
+            },
+            {
+                "id": "UK-UTT",
+                "name": "Uttarkashi"
+            }
+        ]
+    },
+    {
+        "id": "WB",
+        "name": "West Bengal",
+        "districts": [
+            {
+                "id": "WB-ALI",
+                "name": "Alipurduar"
+            },
+            {
+                "id": "WB-BAN",
+                "name": "Bankura"
+            },
+            {
+                "id": "WB-BIR",
+                "name": "Birbhum"
+            },
+            {
+                "id": "WB-CB",
+                "name": "Cooch Behar"
+            },
+            {
+                "id": "WB-DD",
+                "name": "Dakshin Dinajpur"
+            },
+            {
+                "id": "WB-DAR",
+                "name": "Darjeeling"
+            },
+            {
+                "id": "WB-HOO",
+                "name": "Hooghly"
+            },
+            {
+                "id": "WB-HOW",
+                "name": "Howrah"
+            },
+            {
+                "id": "WB-JAL",
+                "name": "Jalpaiguri"
+            },
+            {
+                "id": "WB-JHA",
+                "name": "Jhargram"
+            },
+            {
+                "id": "WB-KAL",
+                "name": "Kalimpong"
+            },
+            {
+                "id": "WB-KOL",
+                "name": "Kolkata"
+            },
+            {
+                "id": "WB-MAL",
+                "name": "Malda"
+            },
+            {
+                "id": "WB-MUR",
+                "name": "Murshidabad"
+            },
+            {
+                "id": "WB-NAD",
+                "name": "Nadia"
+            },
+            {
+                "id": "WB-N2P",
+                "name": "North 24 Parganas"
+            },
+            {
+                "id": "WB-PB",
+                "name": "Paschim Bardhaman"
+            },
+            {
+                "id": "WB-PM",
+                "name": "Paschim Medinipur"
+            },
+            {
+                "id": "WB-PB2",
+                "name": "Purba Bardhaman"
+            },
+            {
+                "id": "WB-PM2",
+                "name": "Purba Medinipur"
+            },
+            {
+                "id": "WB-PUR",
+                "name": "Purulia"
+            },
+            {
+                "id": "WB-S2P",
+                "name": "South 24 Parganas"
+            },
+            {
+                "id": "WB-UD",
+                "name": "Uttar Dinajpur"
+            }
+        ]
+    },
+    {
+        "id": "AN",
+        "name": "Andaman and Nicobar Islands",
+        "districts": [
+            {
+                "id": "AN-NIC",
+                "name": "Nicobar"
+            },
+            {
+                "id": "AN-NAM",
+                "name": "North and Middle Andaman"
+            },
+            {
+                "id": "AN-SA",
+                "name": "South Andaman"
+            }
+        ]
+    },
+    {
+        "id": "CH",
+        "name": "Chandigarh",
+        "districts": [
+            {
+                "id": "CH-CHA",
+                "name": "Chandigarh"
+            }
+        ]
+    },
+    {
+        "id": "DL",
+        "name": "Delhi",
+        "districts": [
+            {
+                "id": "DL-CD",
+                "name": "Central Delhi"
+            },
+            {
+                "id": "DL-ED",
+                "name": "East Delhi"
+            },
+            {
+                "id": "DL-ND",
+                "name": "New Delhi"
+            },
+            {
+                "id": "DL-ND2",
+                "name": "North Delhi"
+            },
+            {
+                "id": "DL-NED",
+                "name": "North East Delhi"
+            },
+            {
+                "id": "DL-NWD",
+                "name": "North West Delhi"
+            },
+            {
+                "id": "DL-SHA",
+                "name": "Shahdara"
+            },
+            {
+                "id": "DL-SD",
+                "name": "South Delhi"
+            },
+            {
+                "id": "DL-SED",
+                "name": "South East Delhi"
+            },
+            {
+                "id": "DL-SWD",
+                "name": "South West Delhi"
+            },
+            {
+                "id": "DL-WD",
+                "name": "West Delhi"
+            }
+        ]
+    },
+    {
+        "id": "JK",
+        "name": "Jammu and Kashmir",
+        "districts": [
+            {
+                "id": "JK-ANA",
+                "name": "Anantnag"
+            },
+            {
+                "id": "JK-BAN",
+                "name": "Bandipora"
+            },
+            {
+                "id": "JK-BAR",
+                "name": "Baramulla"
+            },
+            {
+                "id": "JK-BUD",
+                "name": "Budgam"
+            },
+            {
+                "id": "JK-DOD",
+                "name": "Doda"
+            },
+            {
+                "id": "JK-GAN",
+                "name": "Ganderbal"
+            },
+            {
+                "id": "JK-JAM",
+                "name": "Jammu"
+            },
+            {
+                "id": "JK-KAT",
+                "name": "Kathua"
+            },
+            {
+                "id": "JK-KIS",
+                "name": "Kishtwar"
+            },
+            {
+                "id": "JK-KUL",
+                "name": "Kulgam"
+            },
+            {
+                "id": "JK-KUP",
+                "name": "Kupwara"
+            },
+            {
+                "id": "JK-POO",
+                "name": "Poonch"
+            },
+            {
+                "id": "JK-PUL",
+                "name": "Pulwama"
+            },
+            {
+                "id": "JK-RAJ",
+                "name": "Rajouri"
+            },
+            {
+                "id": "JK-RAM",
+                "name": "Ramban"
+            },
+            {
+                "id": "JK-REA",
+                "name": "Reasi"
+            },
+            {
+                "id": "JK-SAM",
+                "name": "Samba"
+            },
+            {
+                "id": "JK-SHO",
+                "name": "Shopian"
+            },
+            {
+                "id": "JK-SRI",
+                "name": "Srinagar"
+            },
+            {
+                "id": "JK-UDH",
+                "name": "Udhampur"
+            }
+        ]
+    },
+    {
+        "id": "LA",
+        "name": "Ladakh",
+        "districts": [
+            {
+                "id": "LA-KAR",
+                "name": "Kargil"
+            },
+            {
+                "id": "LA-LEH",
+                "name": "Leh"
+            }
+        ]
+    },
+    {
+        "id": "LD",
+        "name": "Lakshadweep",
+        "districts": [
+            {
+                "id": "LD-AGA",
+                "name": "Agatti"
+            },
+            {
+                "id": "LD-AMI",
+                "name": "Amini"
+            },
+            {
+                "id": "LD-AND",
+                "name": "Andrott"
+            },
+            {
+                "id": "LD-BIT",
+                "name": "Bitra"
+            },
+            {
+                "id": "LD-CHE",
+                "name": "Chetlat"
+            },
+            {
+                "id": "LD-KAV",
+                "name": "Kavaratti"
+            },
+            {
+                "id": "LD-KAL",
+                "name": "Kalpeni"
+            },
+            {
+                "id": "LD-KIL",
+                "name": "Kiltan"
+            },
+            {
+                "id": "LD-MIN",
+                "name": "Minicoy"
+            }
+        ]
+    },
+    {
+        "id": "PY",
+        "name": "Puducherry",
+        "districts": [
+            {
+                "id": "PY-KAR",
+                "name": "Karaikal"
+            },
+            {
+                "id": "PY-MAH",
+                "name": "Mahe"
+            },
+            {
+                "id": "PY-PUD",
+                "name": "Puducherry"
+            },
+            {
+                "id": "PY-YAN",
+                "name": "Yanam"
+            }
+        ]
+    }
+]
