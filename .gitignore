@@ -4,4 +4,8 @@ venv/
 .env.prd
 
 dev/serviceAccountKey.json
-prod/serviceAccountKey.json
+prd/serviceAccountKey.json
+
+dev/*.json
+prd/*.json
+*serviceAccountKey*.json
