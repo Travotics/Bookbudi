@@ -1,8 +1,5 @@
 <p align='center'>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=capsule%20render&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Decorate%20GitHub%20Profile%20or%20any%20Repo%20like%20me!&descAlignY=51&descAlign=62"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Bookbudi%20backend&fontSize=90&animation=fadeIn&fontAlignY=38&desc=A%20robust%20backend%20built%20on%20Python!&descAlignY=51&descAlign=62"/>
 </p>
 
-<p align='center'>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=70&section=footer&text=capsule%20render&fontSize=20&animation=fadeIn&fontAlignY=38&desc=Decorate%20GitHub%20Profile%20or%20any%20Repo%20like%20me!&descAlignY=51&descAlign=62"/>
-</p>
 
