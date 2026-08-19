@@ -2,9 +2,14 @@ import json
 from typing import List
 from pathlib import Path
 
-from fastapi import HTTPException, UploadFile
+from fastapi import HTTPException
+from sqlalchemy import select
+from models.book_model import Book
+from models.user_model import User
+from schema.book_schema import BookCreate, BookResponse, GetBook
 from schema.state_schema import StateSchema
 from schema.district_schema import DistrictSchema
+from sqlalchemy.ext.asyncio import AsyncSession
 
 JSON_FILE = Path(__file__).parent.parent / "india_states_and_districts.json"
 
@@ -37,5 +42,32 @@ async def get_districts(state:str) -> List[DistrictSchema]:
         detail="District not found"
     )
 
-async def upload_bookdata(photos:List[UploadFile]):
-    pass
+async def upload_bookdata(bookData: BookCreate, decoded_token: dict, db: AsyncSession) -> BookResponse:
+
+    user_query = select(User).where(User.firebase_uid == decoded_token["uid"])
+    result = await db.execute(user_query)
+    user = result.scalar_one_or_none()
+
+    if not user:
+        raise HTTPException(status_code=404, detail="User not found")
+
+    book = Book(
+        user_id = user.id,  
+        category_id = bookData.category_id,
+        book_name = bookData.book_name,
+        image_urls = bookData.image_urls,
+        condition = bookData.condition,
+        state = bookData.state,
+        city = bookData.city,
+        address = bookData.address,
+        price = bookData.price,
+        note = bookData.note,
+        phone_number = bookData.phone_number,
+    )
+
+    db.add(book)
+
+    await db.commit()
+    await db.refresh(book)
+
+    return BookResponse(message="Book posted successfully")
