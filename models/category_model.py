@@ -16,4 +16,6 @@ class Category(Base):
     image_url: Mapped[str] = mapped_column(String(512), nullable=False)
     active: Mapped[bool] = mapped_column(Boolean, nullable=False, default=True)
 
-    books: Mapped[list["Book"]] = relationship(back_populates="category")
+    books: Mapped[list["Book"]] = relationship(
+        lambda: __import__('models.book_model', fromlist=['Book']).Book,
+        back_populates="category")

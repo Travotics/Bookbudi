@@ -11,12 +11,12 @@ from routes.add_route import router as add_router
 @asynccontextmanager
 async def lifespan(app: FastAPI):
     # --- STARTUP LOGIC ---
-    async with engine.begin() as conn:
+    # async with engine.begin() as conn:
         # Creates all tables that inherit from Base if they don't already exist
-        await conn.run_sync(Base.metadata.create_all)
+        # await conn.run_sync(Base.metadata.create_all)
 
         # Initialize Firebase Admin SDK
-        initialize_firebase()
+    initialize_firebase()
     
     yield  # The app runs while paused here
     

@@ -29,4 +29,7 @@ class Book(Base):
     active: Mapped[bool] = mapped_column(Boolean, nullable=False, default=True)
 
     user: Mapped["User"] = relationship(back_populates="books")
-    category: Mapped["Category"] = relationship(back_populates="books")
+    category: Mapped["Category"] = relationship(
+        lambda: __import__('models.category_model', fromlist=['Category']).Category, 
+        back_populates="books"
+    )

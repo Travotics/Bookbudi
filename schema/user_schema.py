@@ -4,10 +4,10 @@ class UserSchema(BaseModel):
     id:int
     firebase_uid: str
     role:str
-    username: str
+    username: str|None
     email:str
-    phone:str
-    profile_image:str
+    phone_number:str|None
+    profile_image:str|None
     active: bool
     created_at: str
 
