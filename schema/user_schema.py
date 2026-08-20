@@ -1,3 +1,4 @@
+from datetime import datetime   
 from pydantic import BaseModel
 
 class UserSchema(BaseModel):
@@ -9,7 +10,7 @@ class UserSchema(BaseModel):
     phone_number:str|None
     profile_image:str|None
     active: bool
-    created_at: str
+    created_at: datetime
 
     class Config:
         from_attributes = True  # Allows ORM compatibility if loading from SQLAlchemy models
