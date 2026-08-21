@@ -7,6 +7,7 @@ from routes.category_route import router as category_router
 from routes.home_route import router as home_router
 from routes.auth_route import router as auth_router
 from routes.add_route import router as add_router
+from config import settings
 
 @asynccontextmanager
 async def lifespan(app: FastAPI):
@@ -34,4 +35,4 @@ app.include_router(add_router)
 
 @app.get("/")
 async def root():
-    return {"message": "Bookbudi API is running"}
+    return {"message": f"Bookbudi APIs are running in {settings.APP_ENV}"}

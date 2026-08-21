@@ -1,0 +1,32 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: bookbudi-api
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: bookbudi-api
+  template:
+    metadata:
+      labels:
+        app: bookbudi-api
+    spec:
+      containers:
+        - name: bookbudi-api
+          image: IMAGE_PLACEHOLDER
+          ports:
+            - containerPort: 8000
+          env:
+            - name: APP_ENV
+              value: "ENVIRONMENT_PLACEHOLDER"
+            - name: DB_URL
+              valueFrom:
+                secretKeyRef:
+                  name: bookbudi-secrets
+                  key: DB_URL
+            - name: FIREBASE_SERVICE_ACCOUNT_JSON
+              valueFrom:
+                secretKeyRef:
+                  name: bookbudi-secrets
+                  key: FIREBASE_SERVICE_ACCOUNT_JSON  
