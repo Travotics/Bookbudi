@@ -1,4 +1,4 @@
-name: Deploy Bookbudi API - Dev
+name: Deploy Bookbudi APIs - Dev
 
 on:
   push:
