@@ -9,3 +9,5 @@ prd/serviceAccountKey.json
 dev/*.json
 prd/*.json
 *serviceAccountKey*.json
+
+.github/workflows/deploy.yml

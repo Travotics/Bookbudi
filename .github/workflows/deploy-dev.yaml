@@ -1,0 +1,93 @@
+name: Deploy Bookbudi API - Dev
+
+on:
+  push:
+    branches:
+      - dev
+
+env:
+  PROJECT_ID: ${{ secrets.PROJECT_ID }}
+  REGION: ${{ secrets.REGION }}
+  GKE_CLUSTER: ${{ secrets.GKE_CLUSTER }}
+  GKE_ZONE: ${{ secrets.GKE_ZONE }}
+
+  GAR_REPOSITORY: bookbudi-repo
+  IMAGE_NAME: fastapi
+
+  NAMESPACE: dev
+  ENVIRONMENT: dev
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Show deployment information
+        run: |
+          echo "Environment: $ENVIRONMENT"
+          echo "Namespace: $NAMESPACE"
+
+      - name: Authenticate to Google Cloud
+        uses: google-github-actions/auth@v2
+        with:
+          credentials_json: '${{ secrets.GCP_SA_KEY }}'
+
+      - name: Setup Google Cloud SDK
+        uses: google-github-actions/setup-gcloud@v2
+
+      - name: Configure Docker
+        run: |
+          gcloud auth configure-docker \
+            ${{ env.REGION }}-docker.pkg.dev
+
+      - name: Build Docker image
+        run: |
+          docker build \
+            -t ${{ env.REGION }}-docker.pkg.dev/${{ env.PROJECT_ID }}/${{ env.GAR_REPOSITORY }}/${{ env.IMAGE_NAME }}:${{ github.sha }} \
+            .
+
+      - name: Push Docker image
+        run: |
+          docker push \
+            ${{ env.REGION }}-docker.pkg.dev/${{ env.PROJECT_ID }}/${{ env.GAR_REPOSITORY }}/${{ env.IMAGE_NAME }}:${{ github.sha }}
+
+      - name: Get GKE credentials
+        uses: google-github-actions/get-gke-credentials@v2
+        with:
+          cluster_name: ${{ env.GKE_CLUSTER }}
+          location: ${{ env.REGION }}
+
+      - name: Create namespace
+        run: |
+          kubectl create namespace $NAMESPACE \
+            --dry-run=client \
+            -o yaml | kubectl apply -f -
+
+      - name: Create Kubernetes Secret
+        env:
+          DB_URL: ${{ secrets.DEV_DB_URL }}
+          FIREBASE_SA: ${{ secrets.DEV_SERVICE_ACCOUNT }}
+
+        run: |
+          kubectl create secret generic bookbudi-secrets \
+            --namespace $NAMESPACE \
+            --from-literal=DB_URL="$DB_URL" \
+            --from-literal=FIREBASE_SERVICE_ACCOUNT_JSON="$FIREBASE_SA" \
+            --dry-run=client \
+            -o yaml | kubectl apply -f -
+
+      - name: Deploy Kubernetes resources
+        run: |
+          cd k8s/overlays/$ENVIRONMENT
+
+          kustomize edit set image \
+            fastapi=${{ env.REGION }}-docker.pkg.dev/${{ env.PROJECT_ID }}/${{ env.GAR_REPOSITORY }}/${{ env.IMAGE_NAME }}:${{ github.sha }}
+
+          kubectl apply -k .
+
+      - name: Wait for deployment
+        run: |
+          kubectl -n $NAMESPACE rollout status deployment/bookbudi-api
