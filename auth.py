@@ -1,8 +1,10 @@
-from fastapi import Header, HTTPException
+from fastapi import HTTPException, Request
 
 from firebase_admin import auth
 
-def get_current_user(authorization: str | None = Header(None)):
+def get_current_user(request: Request):
+
+    authorization = request.headers.get("Authorization")
 
     if not authorization:
         print("No Auth header present")
@@ -29,5 +31,5 @@ def get_current_user(authorization: str | None = Header(None)):
         print("Firebase verification error:", repr(e))
         raise HTTPException(
             status_code=401,
-            detail="Invalid or expired Firebase token"
+            detail="Invalid or expired token"
         )
